@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="48d97d95-66aa-4217-bacb-4f3e8c01a1df" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="48d97d95-66aa-4217-bacb-4f3e8c01a1df" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -118,7 +116,7 @@
       <workItem from="1588196350017" duration="560000" />
       <workItem from="1588201195846" duration="437000" />
       <workItem from="1588537001647" duration="1000" />
-      <workItem from="1588802722455" duration="796000" />
+      <workItem from="1588802722455" duration="890000" />
     </task>
     <servers />
   </component>
@@ -134,25 +132,25 @@
       <screen x="0" y="23" width="1440" height="795" />
     </state>
     <state x="553" y="185" key="#com.intellij.ide.util.PackageChooserDialog/0.23.1440.795@0.23.1440.795" timestamp="1588802901111" />
-    <state width="1188" height="191" key="GridCell.Tab.0.bottom" timestamp="1588803256037">
+    <state width="1188" height="191" key="GridCell.Tab.0.bottom" timestamp="1588804330324">
       <screen x="0" y="23" width="1440" height="795" />
     </state>
-    <state width="1188" height="191" key="GridCell.Tab.0.bottom/0.23.1440.795@0.23.1440.795" timestamp="1588803256037" />
+    <state width="1188" height="191" key="GridCell.Tab.0.bottom/0.23.1440.795@0.23.1440.795" timestamp="1588804330324" />
     <state width="1188" height="191" key="GridCell.Tab.0.bottom/0.23.1440.799@0.23.1440.799" timestamp="1588209589458" />
-    <state width="1188" height="191" key="GridCell.Tab.0.center" timestamp="1588803256036">
+    <state width="1188" height="191" key="GridCell.Tab.0.center" timestamp="1588804330323">
       <screen x="0" y="23" width="1440" height="795" />
     </state>
-    <state width="1188" height="191" key="GridCell.Tab.0.center/0.23.1440.795@0.23.1440.795" timestamp="1588803256036" />
+    <state width="1188" height="191" key="GridCell.Tab.0.center/0.23.1440.795@0.23.1440.795" timestamp="1588804330323" />
     <state width="1188" height="191" key="GridCell.Tab.0.center/0.23.1440.799@0.23.1440.799" timestamp="1588209589457" />
-    <state width="1188" height="191" key="GridCell.Tab.0.left" timestamp="1588803256035">
+    <state width="1188" height="191" key="GridCell.Tab.0.left" timestamp="1588804330323">
       <screen x="0" y="23" width="1440" height="795" />
     </state>
-    <state width="1188" height="191" key="GridCell.Tab.0.left/0.23.1440.795@0.23.1440.795" timestamp="1588803256035" />
+    <state width="1188" height="191" key="GridCell.Tab.0.left/0.23.1440.795@0.23.1440.795" timestamp="1588804330323" />
     <state width="1188" height="191" key="GridCell.Tab.0.left/0.23.1440.799@0.23.1440.799" timestamp="1588209589457" />
-    <state width="1188" height="191" key="GridCell.Tab.0.right" timestamp="1588803256036">
+    <state width="1188" height="191" key="GridCell.Tab.0.right" timestamp="1588804330324">
       <screen x="0" y="23" width="1440" height="795" />
     </state>
-    <state width="1188" height="191" key="GridCell.Tab.0.right/0.23.1440.795@0.23.1440.795" timestamp="1588803256036" />
+    <state width="1188" height="191" key="GridCell.Tab.0.right/0.23.1440.795@0.23.1440.795" timestamp="1588804330324" />
     <state width="1188" height="191" key="GridCell.Tab.0.right/0.23.1440.799@0.23.1440.799" timestamp="1588209589458" />
     <state x="519" y="303" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD" timestamp="1588802964690">
       <screen x="0" y="23" width="1440" height="795" />
